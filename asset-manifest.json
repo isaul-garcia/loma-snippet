@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/static/js/main.0c587b5e.js",
+    "static/media/this-loma.glb": "/static/media/this-loma.ccaad75752dd738ad52c.glb",
+    "static/media/loma-sits-03.svg": "/static/media/loma-sits-03.3f15c14386bbdfc4225000b76847ac57.svg",
+    "static/media/loma-sits-04.svg": "/static/media/loma-sits-04.c2f43598050b92b2a4de35c2e114c7c5.svg",
+    "static/media/loma-type-light.svg": "/static/media/loma-type-light.00b9307c7e88ae4dbe5e1551a4c5f09c.svg",
+    "static/media/loma-sits-01.svg": "/static/media/loma-sits-01.7d556a0ada04613b3805b55b8fbf6db9.svg",
+    "static/media/loma-silhoutte.svg": "/static/media/loma-silhoutte.96358e8144cf7d1f886d2e53ed3098b0.svg",
+    "static/media/loma-silhoutte-02.svg": "/static/media/loma-silhoutte-02.dfd4922ba7049dfb384c320f94825a7c.svg",
+    "static/media/loma-sits-02.svg": "/static/media/loma-sits-02.54845bb3887937b6598ebfb85f80d102.svg",
+    "index.html": "/index.html",
+    "main.0c587b5e.js.map": "/static/js/main.0c587b5e.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.0c587b5e.js"
+  ]
+}
